@@ -1,8 +1,8 @@
 ## Day 2##
 >"Chase your dreams!"
 - [x] Typing practice using(keybr.com) ☺
-- [x] Webdev Study Html 
-- [x] Web devolopement
+- [x] Webdev Study Html ☺
+- [x] Web devolopement ☺
      - what is DNS?
      - What is Domain name?
      - What is webhosting?

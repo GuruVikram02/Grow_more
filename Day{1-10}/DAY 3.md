@@ -2,6 +2,6 @@
 >"Doing something is better than not even trying"
 - [x] Typing practice using(keybr.com) ☺
 - [ ] Complete the webpage
-- [ ] 2048 Game ☺
-- [ ] Skill Rack ☹
+- [x] 2048 Game ☺
+- [x] Skill Rack ☹
 - [ ] Webdev Study Html ☺

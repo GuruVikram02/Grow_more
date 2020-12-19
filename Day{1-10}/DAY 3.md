@@ -4,4 +4,4 @@
 - [ ] Complete the webpage
 - [x] 2048 Game ✔️
 - [x] Skill Rack ✔️
-- [ ] Webdev Study Html 
+- [x] Webdev Study Html 

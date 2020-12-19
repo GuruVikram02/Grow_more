@@ -1,7 +1,7 @@
 ###DAY 3###
 >"Doing something is better than not even trying"
 - [x] Typing practice using(keybr.com) ✔️
-- [ ] Complete the webpage
+- [x] Complete the webpage G✔️
 - [x] 2048 Game ✔️
 - [x] Skill Rack ✔️
-- [x] Webdev Study Html 
+- [x] Webdev Study Html ✔️

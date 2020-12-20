@@ -1,0 +1,8 @@
+- [x] Typing practice using(keybr.com) ✔️
+- [x] 2048 Game ✔️
+- [x] Skill Rack ✔️
+- [x] Webdev Study Html ✔️
+  - html image insertion
+  - html css
+  - html colors
+  - html links

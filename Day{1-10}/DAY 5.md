@@ -1,0 +1,4 @@
+- [x] Typing practice using(keybr.com) ✔️
+- [ ] 2048 Game 
+- [x] Skill Rack ✔️
+- [ ] Webdev Study Html 

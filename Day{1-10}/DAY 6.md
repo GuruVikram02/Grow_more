@@ -9,4 +9,4 @@
   - head 
   - layout
 - Apply what you have studied ✔️
-  - uploded the sample webiste in my github account which created using i frames in the repository       website-using-html-only(https://github.com/GuruVikram02/website-using-html-only)
+  - uploded the sample webiste in my github account which created using i frames in the repository       [website-using-html-only](https://github.com/GuruVikram02/website-using-html-only)

@@ -2,10 +2,10 @@
 - 2048 Game ✔️
 - Skill Rack ✔️
   - Python3-H004 Operators if else statements
-- Webdev Study Html 
+- Webdev Study Html ✔️
   - i frames
   - java script
   - file paths
   - head 
   - layout
-- apply what you have studied 
+- Apply what you have studied ✔️

@@ -1,0 +1,10 @@
+- Typing practice using(keybr.com) ✔️
+- Skill Rack ✔️
+  - Completed python3-H004 Operators if else statements
+- Webdev Study Html ✔️
+  - HTML Responsive Web Design
+  - HTML Computer Code Elements
+  - HTML Semantic Elements
+  - HTML style guide elements
+  - HTML Entities
+- 2048 Game  

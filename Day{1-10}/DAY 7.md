@@ -7,4 +7,4 @@
   - HTML Semantic Elements
   - HTML style guide elements
   - HTML Entities
-- 2048 Game  
+- 2048 Game  ✔️

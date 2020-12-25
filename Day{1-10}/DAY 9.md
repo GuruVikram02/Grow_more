@@ -1,8 +1,11 @@
-- Typing practice using(keybr.com) ✔⚡
-
+- Typing practice using(keybr.com) ⚡
 - Skill Rack ⚡
   - Completed python3-H004 Loops elif and nested if else statemetns ✔
-
 - 2048 Game ⚡
-
 - Webdev Study Html ⚡
+  - HTML Forms
+  - HTML Form Attributes
+  - HTML Form Elements
+  - HTML Input Types
+  - HTML Input Attributes
+  - HTML Input Form Attributes

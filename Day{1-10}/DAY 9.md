@@ -6,6 +6,4 @@
   - HTML Forms
   - HTML Form Attributes
   - HTML Form Elements
-  - HTML Input Types
-  - HTML Input Attributes
-  - HTML Input Form Attributes
+

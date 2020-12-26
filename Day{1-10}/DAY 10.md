@@ -1,0 +1,8 @@
+- Typing practice using(keybr.com) ⚡
+- Skill Rack ⚡
+  - completed 50% python3-H006 Numbers and strings
+- 2048 Game ⚡
+- Webdev Study Html ⚡
+  - HTML Input Types
+  - HTML Input Attributes
+  - HTML Input Form Attributes

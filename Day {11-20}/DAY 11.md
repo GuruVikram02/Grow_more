@@ -1,7 +1,7 @@
 - Typing practice using(keybr.com) ⚡
 - Skill Rack ⚡
   - completed python3-H006 Numbers and strings
-- 2048 Game 
+- 2048 Game ⚡
 - Webdev Study Html ⚡
   - HTML Media
   - HTML Video

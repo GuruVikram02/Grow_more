@@ -1,0 +1,6 @@
+- Typing practice using(keybr.com) ⚡
+- Skill Rack ⚡
+  - completed python3-H008 Dictionary Stack queue
+- 2048 Game ⚡
+- Webdev Study Html ⚡
+    - CSS Fundamentals

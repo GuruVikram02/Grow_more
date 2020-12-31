@@ -1,3 +1,4 @@
+## DAY 12 ##
 - Typing practice using(keybr.com) ⚡
 - Skill Rack ⚡
   - 50% python3-H007 List Tupules Dictionary continued
